@@ -19,5 +19,8 @@
   },
   "scripts": {
     "test": "scripts/test.sh"
+  },
+  "dependencies": {
+    "firebase": "^8.8.1"
   }
 }
